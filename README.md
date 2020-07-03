@@ -11,5 +11,5 @@ Date | Paper | Links
 ## 논문
 Date | Paper | Links
 :---: | :---: | :---: 
-7/3 | Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. | [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [review] [code]
+7/ | Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. | [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [review] [code]
 
