@@ -1,15 +1,13 @@
 README.md
 
-## 강화학습의 논문들을 차례대로 구현해보겠습니다.
-시작일 2020년 7월 2일
+## 강화학습의 공부하고, 논문 구현 스터디를 합니다.
 
-## 따라하기
-Date | Paper | Links
-:---: | :---: | :---: 
-7/3 | DQN | [study] [code]
+#### 책 <파이토치를 활용한 강화학습/심층강화학습 실전 입문
+- 책에 나와있는 코드를 공부합니다
+- github 링크 : 
 
-## 논문
-Date | Paper | Links
-:---: | :---: | :---: 
-7/ | Playing Atari with Deep Reinforcement Learning, Mnih et al, 2013. | [[paper]](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) [review] [code]
+#### [모두의 연구소] 강화학습 논문 스터디
+- 2020.07.18 시작
 
+#### [옥찬호 MVP님] 강화학습 논문 스터디
+- 2020.07.20 시작
