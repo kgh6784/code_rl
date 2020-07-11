@@ -7,11 +7,10 @@ README.md
 * [출처 github 링크](https://github.com/wikibook/pytorch-drl)
 
 #### [모두의 연구소] 강화학습 논문 스터디
-* 2020.07.18 시작
 
-날짜 | 논문 | 발표자 | 코드구현
+Date | Topic | Presenter | Code
 :---: | :---: | :---: | :---:
-7/18 | 자기소개 시간 | . | . 
+7/18 | introduce | . | . 
 7/25 | DQN | . | . 
 8/1 | Double DQN, Multi-step TP | . | . 
 8/8 | PER | . | . 
