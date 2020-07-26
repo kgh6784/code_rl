@@ -3,10 +3,10 @@
 Date | Topic | Presenter | Code
 :---: | :---: | :---: | :---:
 7/18 | introduce | . | . 
-7/25 | DQN | . | . 
-8/1 | Double DQN, Multi-step TP | . | . 
-8/8 | PER | . | . 
-8/22 | Dueling DQN | . | . 
+7/25 | Double DQN, Multi-step TD | 내가 발표;; | . 
+8/1 | PER, Dueling DQN | . | . 
+8/8 |  | . | . 
+8/22 |  | . | . 
 8/29 | Nosiy Network | . | . 
 9/5 | C51 | . | . 
 9/12 | Rainbow | . | . 
